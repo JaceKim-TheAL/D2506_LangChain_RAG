@@ -1,18 +1,16 @@
 # D2506_LangChain_RAG
 랭체인과 라그를 활용한 LLM Application 개발
 
-<img src="./images/cover.jpg" width="200">
-
 ### 멀티모달/GraphRAG/ReAct 에이전트/sLLM 완벽 실무 가이드
 <table>
     <tr>
         <td>
-            <img src="./images/cover.jpg" width="200">
+            <img src="./images/cover.jpg" width="100">
         </td>
         <td>
-<li>- ISBN: 9791158395988
-<li>- 판형: 175\*235\*16mm
-<li>- 28,000원 | 2025년 4월 10일 발행 | 300쪽
+<li> ISBN: 9791158395988
+<li> 판형: 175\*235\*16mm
+<li> 28,000원 | 2025년 4월 10일 발행 | 300쪽
         </td>
     </tr>
 </table>
