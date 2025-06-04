@@ -5,7 +5,7 @@
 <table>
     <tr>
         <td>
-            <img src="./images/cover.jpg" width="100">
+            <img src="./images/cover.jpg" height="100">
         </td>
         <td>
 <li> ISBN: 9791158395988
@@ -15,9 +15,6 @@
     </tr>
 </table>
 
-- ISBN: 9791158395988
-- 판형: 175\*235\*16mm
-- 28,000원 | 2025년 4월 10일 발행 | 300쪽
 ---
 
 **LLM 애플리케이션, 이제는 실전으로!**
