@@ -1,3 +1,7 @@
+[practical_llm]: https://github.com/JaceKim-TheAL/D2506_LangChain_RAG
+[![적용기술](https://skillicons.dev/icons?i=ai,anaconda,py,vscode)][[practical_llm]: https://github.com/JaceKim-TheAL/D2506_LangChain_RAG
+]
+
 ### 랭체인과 RAG로 배우는
 # 실전LLM 애플리케이션 개발
 
