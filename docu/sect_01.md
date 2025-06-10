@@ -16,6 +16,7 @@
 
 ---
 ## 1. 랭체인(LangChain)
+- [LangChain 이란?](#langchain-이란)
 - [LangChain의 기본 프레임워크](#langchain의-기본-프레임워크)
 - [LangChain의 주요 기능](#langchain의-주요-기능)
 - [LangChain의 장점과 단점](#langchain의-장점과-단점)
@@ -25,6 +26,7 @@
 - [결론](#결론)
 
 ---
+### LangChain 이란?
 
 대규모 언어 모델(LLM)을 활용한 애플리케이션 개발을 돕는 `오픈소스 프레임워크` <br/>
 다양한 데이터를 활용하여 `맥락에 맞는 응답`을 제공할 수 있는 환경을 제공 <br/>
@@ -52,6 +54,7 @@ _LangChain은 기본적으로 간소화된 LLM 애플리케이션 라이프사�
 - **배포**: LangGraph Cloud를 사용하여 LangGraph 애플리케이션을 프로덕션에 바로 사용할 수 있는 API와 Assistant로 전환합니다.<br/>
 • LangGraph: 그래프의 에지와 노드로 단계를 모델링하여 LLM으로 견고한 “stateful” 멀티 액터 애플리케이션을 구축합니다.<br/>
 • LangServe: LangChain 체인을 REST API로 배포합니다.<br/>
+<br/>
 
 **랭체인 기본 프레임웍**
 ![랭체인 기본 프레임웍](./images/s01_langchain_basic_framework.png)
