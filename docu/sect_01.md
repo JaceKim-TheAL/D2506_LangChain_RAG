@@ -129,7 +129,7 @@ pip install langchain-openai
 
 **LangChain 서드파티 라이브러리**
 
-| 제공업체 | 라이브러리명 |
+| **제공업체** | **라이브러리명** |
 |---------|------------|
 | Anthropic LLM     | langchain-anthropic |
 | AWS Bedrock LLM   | langchain-aws |
