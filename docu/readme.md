@@ -55,8 +55,8 @@
 
 <table>
   <tr>
-    <td>핵심개념</td>
-    <td>설명</td>
+    <td><b>핵심 개념</b></td>
+    <td><b>상세 설명</b></td>
   </tr>
   <tr>
     <td><b>단계별 추론</b><br/>(Step-by-Step Reasoning)</td>
