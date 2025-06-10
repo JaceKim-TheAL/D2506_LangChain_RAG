@@ -15,13 +15,13 @@
 </table>
 
 ---
-## 1. 랭체인(LangChain)  
+## 1. 랭체인(LangChain)
 
 대규모 언어 모델(LLM)을 활용한 애플리케이션 개발을 돕는 `오픈소스 프레임워크` <br/>
 다양한 데이터를 활용하여 `맥락에 맞는 응답`을 제공할 수 있는 환경을 제공 <b**r/>
 
 - 기존 언어 모델이 단순한 텍스트 생성에 머무르는 경우가 많지만, LangChain은 **외부 데이터 소스와 통합**하여 보다 복잡하고 유용한 애플리케이션을 만들 수 있도록 설계되었다.
-- 이 프레임워크는 데이터베이스, API, 파일 시스템 등과 연결하여 **실시간 데이터를 활용**할 수 있도록 지원하며, 이를 통해 챗봇, 문서 분석, 코드 생성, 질문 응답 시스템 등 다양한 AI 애플리케이션을 구축할 수 있다. 
+- 이 프레임워크는 데이터베이스, API, 파일 시스템 등과 연결하여 **실시간 데이터를 활용**할 수 있도록 지원하며, 이를 통해 챗봇, 문서 분석, 코드 생성, 질문 응답 시스템 등 다양한 AI 애플리케이션을 구축할 수 있다.
 - 또한, 프롬프트 관리, 체인 구성, 에이전트 활용 등의 기능을 제공하여 개발자가 보다 **정교한 AI 시스템**을 만들 수 있도록 도와준다.
 - 쉽게 말해, LangChain은 LLM을 단순한 텍스트 생성 도구가 아니라 **실제 애플리케이션과 연결**하여 더 강력한 기능을 수행할 수 있도록 하는 도구라고 볼 수 있다.
 <br/>
@@ -98,6 +98,50 @@ LangChain은 매우 복잡한 애플리케이션을 구축할 때 성능 저하�
 LangChain을 처음 사용하는 개발자들에게는 이 프레임워크가 다소 복잡하게 느껴질 수 있습니다. 특히, 다양한 기능과 옵션을 활용하기 위해서는 일정한 학습 시간이 필요하며, 이를 효과적으로 사용하기 위해서는 깊이 있는 이해가 요구됩니다. 이로 인해 초보자나 작은 프로젝트를 진행하는 개발자들에게는 부담이 될 수 있습니다.
 
 LangChain은 특정 사용 사례에 적합하도록 설계되었지만, 모든 상황에 완벽하게 맞는 것은 아닙니다. 예를 들어, 특정 산업에서 요구하는 고도로 특화된 기능이 LangChain에서 기본적으로 제공되지 않을 수 있으며, 이를 구현하기 위해서는 추가적인 커스터마이징이 필요할 수 있습니다. 또한, 일부 사용 사례에서는 성능, 비용, 복잡도 등의 이유로 다른 솔루션이 더 적합할 수도 있습니다.
+
+<br/>
+
+[[TOP]](#index)
+
+---
+### LangChain 시작하기: LangChain 설치
+
+Windows에서 비교적 가볍게 LangChain을 시작해 볼 수 있습니다. LangChain을 시작하기 위해서는 Python 설치가 필요합니다. 아래 단계는 Windows PowerShell을 사용하여 진행됩니다.<br/>
+
+**(1) Python 설치** <br/>
+먼저 Python 공식 웹사이트에서 Python 3.8 이상 버전을 다운로드하여 설치합니다. 설치 시 "Add Python to PATH" 옵션을 선택합니다.<br/>
+
+**(2) LangChain 설치** <br/>
+Windows PowerShell 명령 프롬프트 창에서 다음 명령어를 입력하여 LangChain을 설치합니다. 이렇게 하면 LangChain의 최소 요구사항이 설치됩니다. 특정 통합을 위해서는 별도로 라이브러리 패키지를 설치해야 합니다.<br/>
+
+```shell
+pip install langchain
+```
+<br/>
+
+**(3) 서드파티 설치: OpenAI** <br/>
+OpenAI에서 제공하는 LLM을 사용한다고 가정하면, 다음 명령어를 입력하여 OpenAI 라이브러리를 설치합니다. 다른 업체에서 제공하는 라이브러리는 아래 표를 참조해 주세요. <br/>
+
+```shell
+pip install langchain-openai
+```
+<br/>
+
+**LangChain 서드파티 라이브러리**
+
+| 제공업체 | 라이브러리명 |
+|---------|------------|
+| Anthropic LLM     | langchain-anthropic |
+| AWS Bedrock LLM   | langchain-aws |
+| Cohere LLM        | langchain-cohere |
+| Fireworks LLM     | langchain-fireworks |
+| Google LLM        | Google Generative AI: langchain-google-genai |
+|                     Vertex AI: langchain-google-vertexai |
+| Hugging Face LLM  | langchain-huggingface |
+| IBM LLM           | langchain-ibm |
+| Microsoft AzureOpenAI LLM    | langchain-openai |
+| Ollama LLM        | langchain-ollama |
+| OpenAI LLM        | langchain-openai |
 
 <br/>
 
