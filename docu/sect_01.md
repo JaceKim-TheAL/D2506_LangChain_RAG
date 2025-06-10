@@ -16,6 +16,15 @@
 
 ---
 ## 1. 랭체인(LangChain)
+- [LangChain의 기본 프레임워크](#langchain의-기본-프레임워크)
+- [LangChain의 주요 기능](#langchain의-주요-기능)
+- [LangChain의 장점과 단점](#langchain의-장점과-단점)
+- [LangChain 시작하기, 설치](#langchain-시작하기)
+- [LangChain을 통해 스마트 애플리케이션으로 확장](#langchain을-통해-스마트-애플리케이션으로-확장)
+- [LangChain을 활용한 애플리케이션 구축 사례](#langchain을-활용한-애플리케이션-구축-사례)
+- [결론](#결론)
+
+---
 
 대규모 언어 모델(LLM)을 활용한 애플리케이션 개발을 돕는 `오픈소스 프레임워크` <br/>
 다양한 데이터를 활용하여 `맥락에 맞는 응답`을 제공할 수 있는 환경을 제공 <b**r/>
@@ -104,7 +113,8 @@ LangChain은 특정 사용 사례에 적합하도록 설계되었지만, 모든 
 [[TOP]](#index)
 
 ---
-### LangChain 시작하기: LangChain 설치
+### LangChain 시작하기
+**LangChain 설치** <br/>
 
 Windows에서 비교적 가볍게 LangChain을 시작해 볼 수 있습니다. LangChain을 시작하기 위해서는 Python 설치가 필요합니다. 아래 단계는 Windows PowerShell을 사용하여 진행됩니다.<br/>
 
