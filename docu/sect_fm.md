@@ -3,7 +3,7 @@
 
 ### INDEX
 
-<table width="800px">
+<table>
   <tr align="center">
     <td width="150px"><a href="sect_01.md"> [LangChain]        </a></td>
     <td width="150px"><a href="sect_02.md"> [RAG]              </a></td>
