@@ -1,5 +1,5 @@
-[vuejs]: readme.md
-[![적용기술](https://skillicons.dev/icons?i=vue,vercel,ts,vscode)][vuejs]
+[practical_llm]: readme.md
+[![적용기술](https://skillicons.dev/icons?i=ai,anaconda,py,vscode)][practical_llm]
 
 ### INDEX
 
