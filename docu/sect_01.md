@@ -135,8 +135,8 @@ pip install langchain-openai
 | AWS Bedrock LLM   | langchain-aws |
 | Cohere LLM        | langchain-cohere |
 | Fireworks LLM     | langchain-fireworks |
-| Google LLM        | Google Generative AI: langchain-google-genai |
-|                     Vertex AI: langchain-google-vertexai |
+| Google LLM        | Google Generative AI: langchain-google-genai 
+                     <br/> Vertex AI: langchain-google-vertexai |
 | Hugging Face LLM  | langchain-huggingface |
 | IBM LLM           | langchain-ibm |
 | Microsoft AzureOpenAI LLM    | langchain-openai |
