@@ -19,7 +19,7 @@
 
 
 ---
-**RAG(Retrieval-Augmented Generation)**은 검색 증강 생성 기술로, 대규모 언어 모델(LLM)의 한계를 보완하기 위해 개발되었습니다. <br/>
+**RAG(Retrieval-Augmented Generation)** 은 검색 증강 생성 기술로, 대규모 언어 모델(LLM)의 한계를 보완하기 위해 개발되었습니다. <br/>
 기존 LLM은 학습된 데이터만을 기반으로 응답을 생성하지만, RAG는 외부 데이터베이스에서 관련 정보를 검색한 후 이를 활용하여 더욱 정확한 응답을 생성하는 방식입니다 <br/>
 <br/>
 
