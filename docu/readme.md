@@ -59,21 +59,21 @@
     <td>설명</td>
   </tr>
   <tr>
-    <td>단계별 추론<br/>(Step-by-Step Reasoning)</td>
+    <td><b>단계별 추론</b><br/>(Step-by-Step Reasoning)</td>
     <td>
       • 모델이 문제를 해결할 때 단계별로 논리적인 사고 과정을 거치도록 유도 <br/>
       • 예를 들어, 수학 문제를 풀 때 단순한 답변이 아니라 계산 과정과 논리를 명확하게 설명
     </td>
   </tr>
   <tr>
-    <td>중간 추론 단계<br/>(Intermediate Reasoning Steps)</td>
+    <td><b>중간 추론 단계</b><br/>(Intermediate Reasoning Steps)</td>
     <td>
       • 모델이 최종 답변을 도출하기 전에 여러 개의 작은 단계로 문제를 나누어 해결 <br/>
       • 이를 통해 더 정확하고 신뢰할 수 있는 응답 생성 가능
     </td>
   </tr>
   <tr>
-    <td>프롬프트 예시<br/>(Prompt Examples)</td>
+    <td><b>프롬프트 예시</b><br/>(Prompt Examples)</td>
     <td>
       • 모델에게 체인 오브 생각(Chain of Thought) 예시를 제공하여, 문제 해결 방법을 학습하도록 함 <br/>
       • 예시를 통해 모델이 논리적인 사고 과정을 따를 수 있도록 유도
