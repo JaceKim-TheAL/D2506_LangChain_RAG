@@ -16,9 +16,13 @@
 
 ---
 ## 6. sLLM                               
+- [sLLM의 주요 특징](#sllm의-주요-특징)
+- [sLLM / LLM / SLM 비교](#sllm--llm--slm-비교)
+- [sLLM의 활용 사례](#sllm의-활용-사례)
 
 ---
-**sLLM(Small Large Language Model)**은 대규모 언어 모델(LLM)의 `성능을 유지하면서도 경량화된 AI 모델`을 의미 <br/>
+
+**sLLM(Small Large Language Model)** 은 대규모 언어 모델(LLM)의 `성능을 유지하면서도 경량화된 AI 모델`을 의미 <br/>
 기존 LLM은 수십억 개 이상의 파라미터를 사용하여 강력한 성능을 제공하지만, sLLM은 모델 크기를 줄이면서도 높은 성능을 유지하도록 설계되었습니다.<br/>
 <br/>
 
