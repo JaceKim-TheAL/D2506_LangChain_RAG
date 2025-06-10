@@ -16,9 +16,12 @@
 
 ---
 ## 4. Graph RAG                          
+- [GraphRAG의 핵심 개념](#graphrag의-핵심-개념)
+- [GraphRAG의 장점](#graphrag의-장점)
+- [GraphRAG의 활용 사례](#graphrag의-활용-사례)
 
-
-GraphRAG은 기존 RAG(Retrieval-Augmented Generation) 기술을 확장하여 지식 그래프(Knowledge Graph)를 활용하는 AI 접근 방식 </br> 
+---
+GraphRAG은 `기존 RAG(Retrieval-Augmented Generation) 기술을 확장`하여 `지식 그래프(Knowledge Graph)를 활용`하는 AI 접근 방식 </br> 
 일반적인 RAG는 문서 검색을 기반으로 하지만, GraphRAG는 데이터 간의 관계를 그래프 형태로 정리하여 더욱 정교한 정보 검색과 응답 생성을 가능하게 합니다. </br>
 <br/>
 
