@@ -97,12 +97,12 @@ RAG에서 사용되는 생성 모델은 다음과 같습니다: <br/>
 
 | 종류 | 설명 |
 |------|-----|
-| Vanilla RAG         | 상위 k개 문서를 LLM 입력에 단순 연결하여 응답 생성.        |
-| RAG-Token           | 각 토큰 생성 시 특정 문서에 기반한 생성.                  |
-| FiD (Fusion-in-Decoder) | 문서들을 별도로 인코딩하고 디코더에서 결합.            |
-| Multi-hop RAG        | 다단계 문서 검색 및 추론 수행.                          |
-| LangChain 기반 RAG    | 체인 방식으로 RAG를 구성하고 조건 분기, 메모리 등을 제어.  |
-| Haystack, LlamaIndex | 파이프라인 전체를 관리하는 오픈소스 기반 RAG 프레임워크.   |
+| **Vanilla RAG**         | 상위 k개 문서를 LLM 입력에 단순 연결하여 응답 생성.        |
+| **RAG-Token**           | 각 토큰 생성 시 특정 문서에 기반한 생성.                  |
+| **FiD(Fusion-in-Decoder)** | 문서들을 별도로 인코딩하고 디코더에서 결합.            |
+| **Multi-hop RAG**        | 다단계 문서 검색 및 추론 수행.                          |
+| **LangChain 기반 RAG**    | 체인 방식으로 RAG를 구성하고 조건 분기, 메모리 등을 제어.  |
+| **Haystack, LlamaIndex** | 파이프라인 전체를 관리하는 오픈소스 기반 RAG 프레임워크.   |
 
 <br/>
 
