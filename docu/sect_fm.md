@@ -4,7 +4,7 @@
 ### INDEX
 
 <table>
-  <tr align="left">
+  <tr align="center">
     <td width="150px"><a href="sect_01.md"> [LangChain]        </a></td>
     <td width="150px"><a href="sect_02.md"> [RAG]              </a></td>
     <td width="180px"><a href="sect_03.md"> [Multimodal RAG]   </a></td>
