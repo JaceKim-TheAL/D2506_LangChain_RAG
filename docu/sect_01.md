@@ -52,7 +52,7 @@ _LangChain은 기본적으로 간소화된 LLM 애플리케이션 라이프사�
 • LangSmith: LLM 애플리케이션을 디버깅, 테스트, 평가, 모니터링할 수 있는 개발자 플랫폼입니다.<br/>
 
 - **배포**: LangGraph Cloud를 사용하여 LangGraph 애플리케이션을 프로덕션에 바로 사용할 수 있는 API와 Assistant로 전환합니다.<br/>
-• LangGraph: 그래프의 에지와 노드로 단계를 모델링하여 LLM으로 견고한 “stateful” 멀티 액터 애플리케이션을 구축합니다.<br/>
+• LangGraph: 그래프의 에지                                                                                                                                                                    와 노드로 단계를 모델링하여 LLM으로 견고한 “stateful” 멀티 액터 애플리케이션을 구축합니다.<br/>
 • LangServe: LangChain 체인을 REST API로 배포합니다.<br/>
 <br/>
 
