@@ -35,6 +35,9 @@
 - 쉽게 말해, LangChain은 LLM을 단순한 텍스트 생성 도구가 아니라 **실제 애플리케이션과 연결**하여 더 강력한 기능을 수행할 수 있도록 하는 도구라고 볼 수 있다.
 <br/>
 
+[[TOP]](#index)
+
+---
 ### LangChain의 기본 프레임워크
 _LangChain은 기본적으로 간소화된 LLM 애플리케이션 라이프사이클을 제공하며, 다음과 같은 `오픈소스 라이브러리로 구성`합니다._
 
@@ -49,11 +52,7 @@ _LangChain은 기본적으로 간소화된 LLM 애플리케이션 라이프사�
 - **배포**: LangGraph Cloud를 사용하여 LangGraph 애플리케이션을 프로덕션에 바로 사용할 수 있는 API와 Assistant로 전환합니다.<br/>
 • LangGraph: 그래프의 에지와 노드로 단계를 모델링하여 LLM으로 견고한 “stateful” 멀티 액터 애플리케이션을 구축합니다.<br/>
 • LangServe: LangChain 체인을 REST API로 배포합니다.<br/>
-<br/>
 
-[[TOP]](#index)
-
----
 **랭체인 기본 프레임웍**
 ![랭체인 기본 프레임웍](./images/s01_langchain_basic_framework.png)
 
