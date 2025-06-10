@@ -15,7 +15,7 @@
 </table>
 
 ---
-## 1. 랭체인(LangChain)
+## 1. 랭체인(LangChain) 
 - [LangChain 이란?](#langchain-이란)
 - [LangChain의 기본 프레임워크](#langchain의-기본-프레임워크)
 - [LangChain의 주요 기능](#langchain의-주요-기능)
